@@ -1,0 +1,6 @@
+Java provides 4 Access Modifiers
+
+1. Default - allows anyone within the same package to see data
+2. Public - accessible anywhere within the project ( even in different package)
+3. Private - accessible only with the same class, nowhere else(not even to the same class, within the same package)
+4. Protected - accessible anywhere in the same package and to outside package ONLY if extended from protected variable class.
